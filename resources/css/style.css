@@ -1,0 +1,59 @@
+body {
+  font-family: 'Roboto','Comfortaa', Verdana,sans-serif;
+  overflow-x: hidden;
+
+}
+
+#introduction {
+  background: linear-gradient(rgba(100,181,246 ,.8), rgba(0,0,0,0.4)), url('/Users/petermchoke/Desktop/PeteFall/IMG_0244.jpg') 0% 0%/cover
+}
+#info-3 {
+  background: linear-gradient(rgba(100,181,246 ,0.3), rgba(0,0,0,0.8)),url("/Users/petermchoke/Desktop/Projects/petermchoke_site/resources/images/macbook.jpg") 0% 0%/cover;
+}
+.fun {
+  font-family: 'Comfortaa';
+}
+.fill-viewport {
+  min-height: 100vh;
+}
+
+.fill-80-viewport {
+  min-height: 80vh;
+}
+.text-white-70 {
+  color: rgba(255,255,255,0.7);
+}
+.text-white-40 {
+  color: rgba(255,255,255,0.4);
+}
+.text-black-40 {
+  color: rgba(0,0,4,0.);
+}
+
+@media screen and (min-width: 768px ){
+  .basis-md-50 {
+    flex-basis: 50%
+  }
+}
+.list-border-y li {
+  border-top: 1px solid
+}
+.list-border-y li:last-child {
+  border-bottom: 1px solid
+}
+
+.list-border-black-20 li,
+.list-border-black-20 li:last-child{
+  border-color: rgba(0,0,0,0.2)
+}
+
+.process {
+  box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+}
+
+li:hover {
+  box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+}
+ img {
+   max-width: 50vh;
+ }
