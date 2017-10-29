@@ -5,10 +5,10 @@ body {
 }
 
 #introduction {
-  background: linear-gradient(rgba(100,181,246 ,.8), rgba(0,0,0,0.4)), url('/Users/petermchoke/Desktop/PeteFall/IMG_0244.jpg') 0% 0%/cover
+  background: linear-gradient(rgba(100,181,246 ,.8), rgba(0,0,0,0.4)), url('https://github.com/PeterMcHoke/home/blob/master/resources/images/IMG_0244.jpg') 0% 0%/cover
 }
 #info-3 {
-  background: linear-gradient(rgba(100,181,246 ,0.3), rgba(0,0,0,0.8)),url("/Users/petermchoke/Desktop/Projects/petermchoke_site/resources/images/macbook.jpg") 0% 0%/cover;
+  background: linear-gradient(rgba(100,181,246 ,0.3), rgba(0,0,0,0.8)),url("https://github.com/PeterMcHoke/home/blob/master/resources/images/macbook.jpg") 0% 0%/cover;
 }
 .fun {
   font-family: 'Comfortaa';
